@@ -1,0 +1,87 @@
+#!/bin/sh
+# ----------------------------------------------------------------------------
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+#    https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+# ----------------------------------------------------------------------------
+
+# ----------------------------------------------------------------------------
+# Apache Maven Wrapper startup batch script, version 3.2.0
+#
+# Optional ENV vars
+# -----------------
+#   JAVA_HOME - location of a JDK home dir, required when download maven via java source
+#   MVNW_REPOURL - repo url base for downloading maven distribution
+#   MVNW_USERNAME/MVNW_PASSWORD - user and password for downloading maven
+#   MVNW_VERBOSE - true: enable verbose log; debug: trace the mvnw script; others: silence the output
+# ----------------------------------------------------------------------------
+
+set -e
+if [ "$MVNW_VERBOSE" = debug ]; then
+  set -x
+fi
+
+if [ -z "$MVNW_REPOURL" ]; then
+  MVNW_REPOURL="https://repo.maven.apache.org/maven2"
+fi
+case "$MVNW_REPOURL" in
+  */maven2) ;;
+  *) echo "MVNW_REPOURL must end with /maven2" >&2 && exit 1 ;;
+esac
+
+wrapperJarPath="$(dirname "$0")/.mvn/wrapper/maven-wrapper.jar"
+wrapperUrl="$MVNW_REPOURL/org/apache/maven/wrapper/maven-wrapper/3.2.0/maven-wrapper-3.2.0.jar"
+wrapperSha256Sum=""
+
+while IFS="=" read -r key value; do
+  case "$key" in
+    distributionUrl) distributionUrl="$value" ;;
+    wrapperUrl) wrapperUrl="$value" ;;
+    wrapperSha256Sum) wrapperSha256Sum="$value" ;;
+  esac
+done < "$(dirname "$0")/.mvn/wrapper/maven-wrapper.properties"
+
+# resolve script directory as absolute path
+BASE_DIR="$(cd "$(dirname "$0")" && pwd)"
+wrapperJarPath="$BASE_DIR/.mvn/wrapper/maven-wrapper.jar"
+
+if [ -n "$JAVA_HOME" ] && [ -x "$JAVA_HOME/bin/java" ]; then
+  JAVA_EXE="$JAVA_HOME/bin/java"
+else
+  JAVA_EXE="$(command -v java || true)"
+fi
+
+if [ -z "$JAVA_EXE" ]; then
+  echo "Error: JAVA_HOME is not set and no 'java' command could be found in your PATH." >&2
+  exit 1
+fi
+
+if [ ! -f "$wrapperJarPath" ]; then
+  echo "Downloading Maven Wrapper..." >&2
+  if command -v curl > /dev/null; then
+    curl -fsSL -o "$wrapperJarPath" "$wrapperUrl"
+  elif command -v wget > /dev/null; then
+    wget -q -O "$wrapperJarPath" "$wrapperUrl"
+  else
+    echo "Error: neither curl nor wget is available to download the Maven Wrapper jar." >&2
+    exit 1
+  fi
+fi
+
+exec "$JAVA_EXE" \
+  -classpath "$wrapperJarPath" \
+  "-Dmaven.multiModuleProjectDirectory=$BASE_DIR" \
+  org.apache.maven.wrapper.MavenWrapperMain "$@"

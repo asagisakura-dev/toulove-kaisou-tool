@@ -1,0 +1,764 @@
+[
+    {
+        "name":  "童子切安綱",
+        "reading":  "どうじぎりやすつな",
+        "type":  "太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "三日月宗近",
+        "reading":  "みかづきむねちか",
+        "type":  "太刀",
+        "school":  "三条"
+    },
+    {
+        "name":  "小狐丸",
+        "reading":  "こぎつねまる",
+        "type":  "太刀",
+        "school":  "三条"
+    },
+    {
+        "name":  "石切丸",
+        "reading":  "いしきりまる",
+        "type":  "大太刀",
+        "school":  "三条"
+    },
+    {
+        "name":  "岩融",
+        "reading":  "いわとおし",
+        "type":  "薙刀",
+        "school":  "三条"
+    },
+    {
+        "name":  "今剣",
+        "reading":  "いまのつるぎ",
+        "type":  "短刀",
+        "school":  "三条"
+    },
+    {
+        "name":  "大典太光世",
+        "reading":  "おおでんたみつよ",
+        "type":  "太刀",
+        "school":  "三池"
+    },
+    {
+        "name":  "ソハヤノツルキ",
+        "reading":  "そはやのつるぎ",
+        "type":  "太刀",
+        "school":  "三池"
+    },
+    {
+        "name":  "数珠丸恒次",
+        "reading":  "じゅずまるつねつぐ",
+        "type":  "太刀",
+        "school":  "青江"
+    },
+    {
+        "name":  "にっかり青江",
+        "reading":  "にっかりあおえ",
+        "type":  "脇差",
+        "school":  "青江"
+    },
+    {
+        "name":  "鬼丸国綱",
+        "reading":  "おにまるくにつな",
+        "type":  "太刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "鳴狐",
+        "reading":  "なきぎつね",
+        "type":  "打刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "一期一振",
+        "reading":  "いちごひとふり",
+        "type":  "太刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "鯰尾藤四郎",
+        "reading":  "なまずおとうしろう",
+        "type":  "脇差",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "骨喰藤四郎",
+        "reading":  "ほねばみとうしろう",
+        "type":  "脇差",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "平野藤四郎",
+        "reading":  "ひらのとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "厚藤四郎",
+        "reading":  "あつとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "後藤藤四郎",
+        "reading":  "ごとうとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "信濃藤四郎",
+        "reading":  "しなのとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "前田藤四郎",
+        "reading":  "まえだとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "秋田藤四郎",
+        "reading":  "あきたとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "博多藤四郎",
+        "reading":  "はかたとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "乱藤四郎",
+        "reading":  "みだれとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "五虎退",
+        "reading":  "ごこたい",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "薬研藤四郎",
+        "reading":  "やげんとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "包丁藤四郎",
+        "reading":  "ほうちょうとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "大包平",
+        "reading":  "おおかねひら",
+        "type":  "太刀",
+        "school":  "古備前"
+    },
+    {
+        "name":  "鶯丸",
+        "reading":  "うぐいすまる",
+        "type":  "太刀",
+        "school":  "古備前"
+    },
+    {
+        "name":  "明石国行",
+        "reading":  "あかしくにゆき",
+        "type":  "太刀",
+        "school":  "来"
+    },
+    {
+        "name":  "蛍丸",
+        "reading":  "ほたるまる",
+        "type":  "大太刀",
+        "school":  "来"
+    },
+    {
+        "name":  "愛染国俊",
+        "reading":  "あいぜんくにとし",
+        "type":  "短刀",
+        "school":  "来"
+    },
+    {
+        "name":  "千子村正",
+        "reading":  "せんごむらまさ",
+        "type":  "打刀",
+        "school":  "村正"
+    },
+    {
+        "name":  "蜻蛉切",
+        "reading":  "とんぼきり",
+        "type":  "槍",
+        "school":  "村正"
+    },
+    {
+        "name":  "物吉貞宗",
+        "reading":  "ものよしさだむね",
+        "type":  "脇差",
+        "school":  "貞宗"
+    },
+    {
+        "name":  "太鼓鐘貞宗",
+        "reading":  "たいこがねさだむね",
+        "type":  "短刀",
+        "school":  "貞宗"
+    },
+    {
+        "name":  "亀甲貞宗",
+        "reading":  "きっこうさだむね",
+        "type":  "打刀",
+        "school":  "貞宗"
+    },
+    {
+        "name":  "燭台切光忠",
+        "reading":  "しょくだいきりみつただ",
+        "type":  "太刀",
+        "school":  "長船"
+    },
+    {
+        "name":  "大般若長光",
+        "reading":  "だいはんにゃながみつ",
+        "type":  "太刀",
+        "school":  "長船"
+    },
+    {
+        "name":  "小竜景光",
+        "reading":  "こりゅうかげみつ",
+        "type":  "太刀",
+        "school":  "長船"
+    },
+    {
+        "name":  "江雪左文字",
+        "reading":  "こうせつさもんじ",
+        "type":  "太刀",
+        "school":  "左文字"
+    },
+    {
+        "name":  "宗三左文字",
+        "reading":  "そうざさもんじ",
+        "type":  "打刀",
+        "school":  "左文字"
+    },
+    {
+        "name":  "小夜左文字",
+        "reading":  "さよさもんじ",
+        "type":  "短刀",
+        "school":  "左文字"
+    },
+    {
+        "name":  "加州清光",
+        "reading":  "かしゅうきよみつ",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "大和守安定",
+        "reading":  "やまとのかみやすさだ",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "歌仙兼定",
+        "reading":  "かせんかねさだ",
+        "type":  "打刀",
+        "school":  "兼定"
+    },
+    {
+        "name":  "和泉守兼定",
+        "reading":  "いずみのかみかねさだ",
+        "type":  "打刀",
+        "school":  "兼定"
+    },
+    {
+        "name":  "陸奥守吉行",
+        "reading":  "むつのかみよしゆき",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "山姥切国広",
+        "reading":  "やまんばぎりくにひろ",
+        "type":  "打刀",
+        "school":  "堀川"
+    },
+    {
+        "name":  "山伏国広",
+        "reading":  "やまぶしくにひろ",
+        "type":  "太刀",
+        "school":  "堀川"
+    },
+    {
+        "name":  "堀川国広",
+        "reading":  "ほりかわくにひろ",
+        "type":  "脇差",
+        "school":  "堀川"
+    },
+    {
+        "name":  "蜂須賀虎徹",
+        "reading":  "はちすかこてつ",
+        "type":  "打刀",
+        "school":  "虎徹"
+    },
+    {
+        "name":  "浦島虎徹",
+        "reading":  "うらしまこてつ",
+        "type":  "脇差",
+        "school":  "虎徹"
+    },
+    {
+        "name":  "長曽祢虎徹",
+        "reading":  "ながそねこてつ",
+        "type":  "打刀",
+        "school":  "虎徹…？"
+    },
+    {
+        "name":  "髭切",
+        "reading":  "ひげきり",
+        "type":  "太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "膝丸",
+        "reading":  "ひざまる",
+        "type":  "太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "大倶利伽羅",
+        "reading":  "おおくりから",
+        "type":  "打刀",
+        "school":  "広光"
+    },
+    {
+        "name":  "へし切長谷部",
+        "reading":  "へしきりはせべ",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "不動行光",
+        "reading":  "ふどうゆきみつ",
+        "type":  "短刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "獅子王",
+        "reading":  "ししおう",
+        "type":  "太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "小烏丸",
+        "reading":  "こがらすまる",
+        "type":  "太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "抜丸",
+        "reading":  "ぬけまる",
+        "type":  "太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "同田貫正国",
+        "reading":  "どうだぬきまさくに",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "鶴丸国永",
+        "reading":  "つるまるくになが",
+        "type":  "太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "太郎太刀",
+        "reading":  "たろうたち",
+        "type":  "大太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "次郎太刀",
+        "reading":  "じろうたち",
+        "type":  "大太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "日本号",
+        "reading":  "にほんごう",
+        "type":  "槍",
+        "school":  "‐"
+    },
+    {
+        "name":  "御手杵",
+        "reading":  "おてぎね",
+        "type":  "槍",
+        "school":  "‐"
+    },
+    {
+        "name":  "巴形薙刀",
+        "reading":  "ともえがたなぎなた",
+        "type":  "薙刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "毛利藤四郎",
+        "reading":  "もうりとうしろう",
+        "type":  "短刀",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "篭手切江",
+        "reading":  "こてぎりごう",
+        "type":  "脇差",
+        "school":  "江"
+    },
+    {
+        "name":  "謙信景光",
+        "reading":  "けんしんかげみつ",
+        "type":  "短刀",
+        "school":  "長船"
+    },
+    {
+        "name":  "小豆長光",
+        "reading":  "あずきながみつ",
+        "type":  "太刀",
+        "school":  "長船"
+    },
+    {
+        "name":  "日向正宗",
+        "reading":  "ひゅうがまさむね",
+        "type":  "短刀",
+        "school":  "正宗"
+    },
+    {
+        "name":  "静形薙刀",
+        "reading":  "しずかがたなぎなた",
+        "type":  "薙刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "南泉一文字",
+        "reading":  "なんせんいちもんじ",
+        "type":  "打刀",
+        "school":  "福岡一文字"
+    },
+    {
+        "name":  "千代金丸",
+        "reading":  "ちよがねまる",
+        "type":  "太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "山姥切長義",
+        "reading":  "やまんばぎりちょうぎ",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "豊前江",
+        "reading":  "ぶぜんごう",
+        "type":  "打刀",
+        "school":  "江"
+    },
+    {
+        "name":  "祢々切丸",
+        "reading":  "ねねきりまる",
+        "type":  "大太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "白山吉光",
+        "reading":  "はくさんよしみつ",
+        "type":  "剣",
+        "school":  "粟田口"
+    },
+    {
+        "name":  "南海太郎朝尊",
+        "reading":  "なんかいたろうちょうそん",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "肥前忠広",
+        "reading":  "ひぜんただひろ",
+        "type":  "脇差",
+        "school":  "‐"
+    },
+    {
+        "name":  "北谷菜切",
+        "reading":  "ちゃたんなきり",
+        "type":  "短刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "桑名江",
+        "reading":  "くわなごう",
+        "type":  "打刀",
+        "school":  "江"
+    },
+    {
+        "name":  "水心子正秀",
+        "reading":  "すいしんしまさひで",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "源清麿",
+        "reading":  "みなもときよまろ",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "松井江",
+        "reading":  "まついごう",
+        "type":  "打刀",
+        "school":  "江"
+    },
+    {
+        "name":  "山鳥毛",
+        "reading":  "さんちょうもう",
+        "type":  "太刀",
+        "school":  "福岡一文字"
+    },
+    {
+        "name":  "古今伝授の太刀",
+        "reading":  "の太刀こきんでんじゅのたち",
+        "type":  "太刀",
+        "school":  "豊後国行平"
+    },
+    {
+        "name":  "地蔵行平",
+        "reading":  "じぞうゆきひら",
+        "type":  "打刀",
+        "school":  "豊後国行平"
+    },
+    {
+        "name":  "治金丸",
+        "reading":  "ちがねまる",
+        "type":  "脇差",
+        "school":  "‐"
+    },
+    {
+        "name":  "日光一文字",
+        "reading":  "にっこういちもんじ",
+        "type":  "太刀",
+        "school":  "福岡一文字"
+    },
+    {
+        "name":  "太閤左文字",
+        "reading":  "たいこうさもんじ",
+        "type":  "短刀",
+        "school":  "左文字"
+    },
+    {
+        "name":  "五月雨江",
+        "reading":  "さみだれごう",
+        "type":  "打刀",
+        "school":  "江"
+    },
+    {
+        "name":  "大千鳥十文字槍",
+        "reading":  "おおちどりじゅうもんじやり",
+        "type":  "槍",
+        "school":  "‐"
+    },
+    {
+        "name":  "泛塵",
+        "reading":  "はんじん",
+        "type":  "脇差",
+        "school":  "‐"
+    },
+    {
+        "name":  "一文字則宗",
+        "reading":  "いちもんじのりむね",
+        "type":  "太刀",
+        "school":  "福岡一文字"
+    },
+    {
+        "name":  "村雲江",
+        "reading":  "むらくもごう",
+        "type":  "打刀",
+        "school":  "江"
+    },
+    {
+        "name":  "姫鶴一文字",
+        "reading":  "ひめつるいちもんじ",
+        "type":  "太刀",
+        "school":  "福岡一文字"
+    },
+    {
+        "name":  "福島光忠",
+        "reading":  "ふくしまみつただ",
+        "type":  "太刀",
+        "school":  "長船"
+    },
+    {
+        "name":  "七星剣",
+        "reading":  "しちせいけん",
+        "type":  "剣",
+        "school":  "‐"
+    },
+    {
+        "name":  "丙子椒林剣",
+        "reading":  "へいししょうりんけん",
+        "type":  "剣",
+        "school":  "‐"
+    },
+    {
+        "name":  "稲葉江",
+        "reading":  "いなばごう",
+        "type":  "打刀",
+        "school":  "江"
+    },
+    {
+        "name":  "笹貫",
+        "reading":  "ささぬき",
+        "type":  "太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "人間無骨",
+        "reading":  "にんげんむこつ",
+        "type":  "槍",
+        "school":  "兼定"
+    },
+    {
+        "name":  "八丁念仏",
+        "reading":  "はっちょうねんぶつ",
+        "type":  "太刀",
+        "school":  "古備前"
+    },
+    {
+        "name":  "石田正宗",
+        "reading":  "いしだまさむね",
+        "type":  "打刀",
+        "school":  "正宗"
+    },
+    {
+        "name":  "実休光忠",
+        "reading":  "じっきゅうみつただ",
+        "type":  "太刀",
+        "school":  "長船"
+    },
+    {
+        "name":  "京極正宗",
+        "reading":  "きょうごくまさむね",
+        "type":  "短刀",
+        "school":  "正宗"
+    },
+    {
+        "name":  "孫六兼元",
+        "reading":  "まごろくかねもと",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "後家兼光",
+        "reading":  "ごけかねみつ",
+        "type":  "打刀",
+        "school":  "長船"
+    },
+    {
+        "name":  "火車切",
+        "reading":  "かしゃぎり",
+        "type":  "脇差",
+        "school":  "広光"
+    },
+    {
+        "name":  "富田江",
+        "reading":  "とみたごう",
+        "type":  "打刀",
+        "school":  "江"
+    },
+    {
+        "name":  "大慶直胤",
+        "reading":  "たいけいなおたね",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "九鬼正宗",
+        "reading":  "くきまさむね",
+        "type":  "短刀",
+        "school":  "正宗"
+    },
+    {
+        "name":  "雲生",
+        "reading":  "うんしょう",
+        "type":  "太刀",
+        "school":  "鵜飼"
+    },
+    {
+        "name":  "道誉一文字",
+        "reading":  "どうよいちもんじ",
+        "type":  "太刀",
+        "school":  "福岡一文字"
+    },
+    {
+        "name":  "雲次",
+        "reading":  "うんじ",
+        "type":  "太刀",
+        "school":  "鵜飼"
+    },
+    {
+        "name":  "面影",
+        "reading":  "おもかげ",
+        "type":  "太刀",
+        "school":  "来"
+    },
+    {
+        "name":  "古備前信房",
+        "reading":  "こびぜんのぶふさ",
+        "type":  "太刀",
+        "school":  "古備前"
+    },
+    {
+        "name":  "倶利伽羅江",
+        "reading":  "くりからごう",
+        "type":  "短刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "三郎国宗",
+        "reading":  "さぶろうくにむち",
+        "type":  "太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "安宅切",
+        "reading":  "あたぎぎち",
+        "type":  "打刀",
+        "school":  "長船"
+    },
+    {
+        "name":  "二筋樋貞宗",
+        "reading":  "ふたすじひさだむち",
+        "type":  "打刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "雲重",
+        "reading":  "うんじゅう",
+        "type":  "打刀",
+        "school":  "鵜飼"
+    },
+    {
+        "name":  "柏太刀",
+        "reading":  "かしわだち",
+        "type":  "大太刀",
+        "school":  "‐"
+    },
+    {
+        "name":  "波平行安",
+        "reading":  "なみのひらゆきやす",
+        "type":  "太刀",
+        "school":  "波平"
+    }
+]
